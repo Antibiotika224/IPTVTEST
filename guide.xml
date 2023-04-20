@@ -1,0 +1,718 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="SS Grandstand">
+    <display-name lang="en">SS Grandstand</display-name>
+    <icon src="https://supersport-cms-prod.azureedge.net/media/l0xffoec/grandstand-1.png" />
+    <url>http://www.supersport.com</url>
+  </channel>
+  <channel id="SS Variety 1">
+    <display-name lang="en">SS Variety 1</display-name>
+    <icon src="https://supersport-cms-prod.azureedge.net/media/kuqlfro4/variety-1-1.png" />
+    <url>http://www.supersport.com</url>
+  </channel>
+  <channel id="SS Variety 2">
+    <display-name lang="en">SS Variety 2</display-name>
+    <icon src="https://supersport-cms-prod.azureedge.net/media/u5njoe0e/variety-2-1.png" />
+    <url>http://www.supersport.com</url>
+  </channel>
+  <channel id="SS Variety 3">
+    <display-name lang="en">SS Variety 3</display-name>
+    <icon src="https://supersport-cms-prod.azureedge.net/media/2gipzsj5/variety-3.jpeg" />
+    <url>http://www.supersport.com</url>
+  </channel>
+  <channel id="SS Variety 4">
+    <display-name lang="en">SS Variety 4</display-name>
+    <icon src="https://supersport-cms-prod.azureedge.net/media/wq1enpv2/variety-4-1.png" />
+    <url>http://www.supersport.com</url>
+  </channel>
+  <channel id="SS Rugby">
+    <display-name lang="en">SS Rugby</display-name>
+    <icon src="https://supersport-cms-prod.azureedge.net/media/ngeluwwy/rugby-5.png" />
+    <url>http://www.supersport.com</url>
+  </channel>
+  <channel id="SS Motorsport">
+    <display-name lang="en">SS Motorsport</display-name>
+    <icon src="https://supersport-cms-prod.azureedge.net/media/npomftsk/motorsport-3.png" />
+    <url>http://www.supersport.com</url>
+  </channel>
+  <channel id="ESPN">
+    <display-name lang="en">ESPN</display-name>
+    <url>http://www.ustvgo.tv</url>
+  </channel>
+  <channel id="ESPN2">
+    <display-name lang="en">ESPN2</display-name>
+    <url>http://www.ustvgo.tv</url>
+  </channel>
+  <channel id="ESPN3 South">
+    <display-name lang="en">ESPN3 South</display-name>
+    <url>http://www.tvtv.us</url>
+  </channel>
+  <channel id="Sky History">
+    <display-name lang="en">Sky History</display-name>
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Sky History2">
+    <display-name lang="en">Sky History2</display-name>
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <programme start="20230420000000 +0000" stop="20230420010000 +0000" channel="SS Grandstand">
+    <title lang="en">GPR HL: Round 22</title>
+    <desc lang="en">'Gallagher Premiership Rugby Highlights - Round 22'. Highlights of the latest action from the Gallagher Premiership with all the big hits, tries and results.(n)</desc>
+  </programme>
+  <programme start="20230420010000 +0000" stop="20230420020000 +0000" channel="SS Grandstand">
+    <title lang="en">LPGA HL '23 LOTTE Champs D4</title>
+    <desc lang="en">'LPGA Highlights - LOTTE Championship Day 4'. From Hoakalei Country Club - Hawaii, USA.(n)</desc>
+  </programme>
+  <programme start="20230420020000 +0000" stop="20230420030000 +0000" channel="SS Grandstand">
+    <title lang="en">UFC FN HL: Holloway v Allen</title>
+    <desc lang="en">'UFC Fight Night Highlights - Featherweight Bout: Max Holloway vs Arnold Allen'. From T-Mobile Center - Kansas City, USA.(n)</desc>
+  </programme>
+  <programme start="20230420030000 +0000" stop="20230420033000 +0000" channel="SS Grandstand">
+    <title lang="en">Serie A HL 22/23: Napoli v Verona</title>
+    <desc lang="en">'Italian Serie A Highlights - Matchday 30: Napoli vs Verona'. From Stadio Diego Armando Maradona - Napoli, Italy.(n)</desc>
+  </programme>
+  <programme start="20230420033000 +0000" stop="20230420040000 +0000" channel="SS Grandstand">
+    <title lang="en">Serie A HL 22/23: Inter v Monza</title>
+    <desc lang="en">'Italian Serie A Highlights - Matchday 30: Inter Milan vs Monza'. From Giuseppe Meazza - Milan, Italy.(n)</desc>
+  </programme>
+  <programme start="20230420040000 +0000" stop="20230420050000 +0000" channel="SS Grandstand">
+    <title lang="en">NASCAR HL '23: NASCAR Cup Series Race</title>
+    <desc lang="en">'NASCAR Cup Series Highlights - NOCO 400'. From Martinsville Speedway - Ridgeway, USA.(n)</desc>
+  </programme>
+  <programme start="20230420050000 +0000" stop="20230420100000 +0000" channel="SS Grandstand">
+    <title lang="en">Live: DPW Tour 22/23 ISPS HANDA Champs D1</title>
+    <desc lang="en">'DP World Tour - ISPS HANDA CHAMPIONSHIP Day 1'. LIVE From PGM Ishioka GC - Omitama, Japan.(n)</desc>
+  </programme>
+  <programme start="20230420100000 +0000" stop="20230420103000 +0000" channel="SS Grandstand">
+    <title lang="en">Live: WTT Champs '23: D4 Session 1</title>
+    <desc lang="en">'World Table Tennis Champions - Day 4: Session 1'. LIVE From Tap Seac Multisport Pavilion - Macao, China.(n)</desc>
+  </programme>
+  <programme start="20230420103000 +0000" stop="20230420110000 +0000" channel="SS Grandstand">
+    <title lang="en">UCL Matchday HL 22/23</title>
+    <desc lang="en">'UEFA Champions League Matchday Highlights. UEFA Champions League Matchday Highlights - Quarter-final 2nd Leg: Wednesday 19 April'. Catch the latest Champions League highlights and top goals of the week.(n)</desc>
+  </programme>
+  <programme start="20230420110000 +0000" stop="20230420115000 +0000" channel="SS Grandstand">
+    <title lang="en">Live: ATP500 '23: Barcelona Open D4</title>
+    <desc lang="en">'ATP World Tour 500 - Barcelona Open BancSabadell Day 4'. LIVE From Real Club de Tenis Barcelona - Barcelona, Spain.(n)</desc>
+  </programme>
+  <programme start="20230420115000 +0000" stop="20230420155000 +0000" channel="SS Grandstand">
+    <title lang="en">Live: IPL '23: PBKS v RCB</title>
+    <desc lang="en">'Tata Indian Premier League T20 - Punjab Kings vs Royal Challengers Bangalore'. LIVE From Punjab Cricket Association Stadium - Mohali, India.(n)</desc>
+  </programme>
+  <programme start="20230420155000 +0000" stop="20230420213000 +0000" channel="SS Grandstand">
+    <title lang="en">Live: IPL '23: DC v KKR</title>
+    <desc lang="en">'Tata Indian Premier League T20 - Delhi Capitals vs Kolkata Knight Riders'. LIVE From Arun Jaitley Stadium - Delhi, India.(n)</desc>
+  </programme>
+  <programme start="20230420213000 +0000" stop="20230421000000 +0000" channel="SS Grandstand">
+    <title lang="en">Live: PGA Tour 22/23 Zurich Classic D1</title>
+    <desc lang="en">'PGA Tour - Zurich Classic of New Orleans Day 1'. LIVE From TPC Louisiana - Avondale, USA.(n)</desc>
+  </programme>
+  <programme start="20230420010000 +0000" stop="20230420030000 +0000" channel="SS Variety 1">
+    <title lang="en">La Flèche Wallonne '23 (W) Elite</title>
+    <desc lang="en">Women Elite. From Wallonia, Belgium.(n)</desc>
+  </programme>
+  <programme start="20230420030000 +0000" stop="20230420060000 +0000" channel="SS Variety 1">
+    <title lang="en">La Flèche Wallonne '23 (M) Elite</title>
+    <desc lang="en">Men Elite. From Wallonia, Belgium.(n)</desc>
+  </programme>
+  <programme start="20230420060000 +0000" stop="20230420080000 +0000" channel="SS Variety 1">
+    <title lang="en">La Flèche Wallonne '23 (W) Elite</title>
+    <desc lang="en">Women Elite. From Wallonia, Belgium.(n)</desc>
+  </programme>
+  <programme start="20230420080000 +0000" stop="20230420081000 +0000" channel="SS Variety 1">
+    <title lang="en">Cover 2 Cover</title>
+    <desc lang="en">'S23/E4 of 20 - To Serve With Love'. Andy Capostagno reviews To Serve With Love, the self published life story of 1940's &amp; 1950's tennis star Marlene Bethlehem.(n)</desc>
+  </programme>
+  <programme start="20230420081000 +0000" stop="20230420082000 +0000" channel="SS Variety 1">
+    <title lang="en">Cover 2 Cover</title>
+    <desc lang="en">'S23/E6 of 20 - Davy Samaai: The People's Champion'. Andy Capostagno reviews Davy Samaai, The People's Champion. The story of David Samaai, the first black South African to play at Wimbledon.(n)</desc>
+  </programme>
+  <programme start="20230420082000 +0000" stop="20230420092000 +0000" channel="SS Variety 1">
+    <title lang="en">PSA HL 22/23: British Open</title>
+    <desc lang="en">'PSA World Tour Highlights - British Open'. From Birmingham, England.(n)</desc>
+  </programme>
+  <programme start="20230420092000 +0000" stop="20230420112000 +0000" channel="SS Variety 1">
+    <title lang="en">Rotterdam Marathon '23</title>
+    <desc lang="en">42nd Edition. From Rotterdam, Netherlands.(n)</desc>
+  </programme>
+  <programme start="20230420112000 +0000" stop="20230420115000 +0000" channel="SS Variety 1">
+    <title lang="en">Toyota Cadence</title>
+    <desc lang="en">'S23/E288 of 49'. A preview of upcoming events, equipment review, and all things cycling, including interviews with some well-known personalities.(n)</desc>
+  </programme>
+  <programme start="20230420115000 +0000" stop="20230420145000 +0000" channel="SS Variety 1">
+    <title lang="en">La Flèche Wallonne '23 (M) Elite</title>
+    <desc lang="en">Men Elite. From Wallonia, Belgium.(n)</desc>
+  </programme>
+  <programme start="20230420145000 +0000" stop="20230420165000 +0000" channel="SS Variety 1">
+    <title lang="en">La Flèche Wallonne '23 (W) Elite</title>
+    <desc lang="en">Women Elite. From Wallonia, Belgium.(n)</desc>
+  </programme>
+  <programme start="20230420165000 +0000" stop="20230420175000 +0000" channel="SS Variety 1">
+    <title lang="en">Int CRI HL '23: PAK v NZL 3rd T20</title>
+    <desc lang="en">'BANK ALFALAH Presents DAFANEWS Highlights - Pakistan vs New Zealand 3rd T20'. From Gaddafi Stadium - Lahore, Pakistan.(n)</desc>
+  </programme>
+  <programme start="20230420175000 +0000" stop="20230420220000 +0000" channel="SS Variety 1">
+    <title lang="en">Live: Int CRI '23: PAK v NZL 4th T20</title>
+    <desc lang="en">'BANK ALFALAH Presents DAFANEWS - Pakistan vs New Zealand 4th T20'. LIVE From Pindi Cricket Stadium - Rawalpindi, Pakistan.(n)</desc>
+  </programme>
+  <programme start="20230420220000 +0000" stop="20230421000000 +0000" channel="SS Variety 1">
+    <title lang="en">La Flèche Wallonne '23 (W) Elite</title>
+    <desc lang="en">Women Elite. From Wallonia, Belgium.(n)</desc>
+  </programme>
+  <programme start="20230420000000 +0000" stop="20230420020000 +0000" channel="SS Variety 2">
+    <title lang="en">Rotterdam Marathon '23</title>
+    <desc lang="en">42nd Edition. From Rotterdam, Netherlands.(n)</desc>
+  </programme>
+  <programme start="20230420020000 +0000" stop="20230420050000 +0000" channel="SS Variety 2">
+    <title lang="en">NASCAR '23: NOCO 400</title>
+    <desc lang="en">'NASCAR Cup Series - NOCO 400'. From Martinsville Speedway - Ridgeway, USA.(n)</desc>
+  </programme>
+  <programme start="20230420050000 +0000" stop="20230420060000 +0000" channel="SS Variety 2">
+    <title lang="en">Reaction Sports</title>
+    <desc lang="en">'S23/E3 of 11 - April Edition'. A jam-packed show with the latest from the world of high adrenaline, action sports. We showcase the 'best bits' from the world of parkour, powerboating, kiteboarding and motocross.(n)</desc>
+  </programme>
+  <programme start="20230420060000 +0000" stop="20230420070000 +0000" channel="SS Variety 2">
+    <title lang="en">Trans World Sport</title>
+    <desc lang="en">'S23/E1877 of 52'. Join the team on their foray into sports news, tournaments and competitions across the globe.(n)</desc>
+  </programme>
+  <programme start="20230420070000 +0000" stop="20230420103000 +0000" channel="SS Variety 2">
+    <title lang="en">Live: WTT Champs '23: D4 Session 1</title>
+    <desc lang="en">'World Table Tennis Champions - Day 4: Session 1'. LIVE From Tap Seac Multisport Pavilion - Macao, China.(n)</desc>
+  </programme>
+  <programme start="20230420103000 +0000" stop="20230420113000 +0000" channel="SS Variety 2">
+    <title lang="en">PSA HL 22/23: British Open</title>
+    <desc lang="en">'PSA World Tour Highlights - British Open'. From Birmingham, England.(n)</desc>
+  </programme>
+  <programme start="20230420113000 +0000" stop="20230420123000 +0000" channel="SS Variety 2">
+    <title lang="en">She's Got Game</title>
+    <desc lang="en">'S23/E4 of 13'. Explore the stories of women in the world of sport. This week we celebrate the 100-day countdown to the Netball World Cup with former players, officials and a host of other special guests.(n)</desc>
+  </programme>
+  <programme start="20230420123000 +0000" stop="20230420130000 +0000" channel="SS Variety 2">
+    <title lang="en">South African Rally-Raid Championship</title>
+    <desc lang="en">'S23/E1 of 8 - Round 1: Nkomazi 400'. Formerly known as the SACCS championship, this event is still regarded as one of the premier championships in the world attracting quality fields.(n)</desc>
+  </programme>
+  <programme start="20230420130000 +0000" stop="20230420164000 +0000" channel="SS Variety 2">
+    <title lang="en">Live: WTT Champs '23: D4 Session 2</title>
+    <desc lang="en">'World Table Tennis Champions - Day 4: Session 2'. LIVE From Tap Seac Multisport Pavilion - Macao, China.(n)</desc>
+  </programme>
+  <programme start="20230420164000 +0000" stop="20230420173000 +0000" channel="SS Variety 2">
+    <title lang="en">World Surf League Presents</title>
+    <desc lang="en">'S10/E3 of 13 - MEO Rip Curl Pro Portugal'. We highlight the best action and stories from the World Surf League Championship Tour events.(n)</desc>
+  </programme>
+  <programme start="20230420173000 +0000" stop="20230420180000 +0000" channel="SS Variety 2">
+    <title lang="en">GCT HL '23: Miami Beach</title>
+    <desc lang="en">'Global Champions Tour Highlights - Miami Beach'. The Longines Global Champions Tour is an annual pre-eminent individual show jumping series that comprises up to 15 rounds of competition hosted around the world.(n)</desc>
+  </programme>
+  <programme start="20230420180000 +0000" stop="20230420190000 +0000" channel="SS Variety 2">
+    <title lang="en">NASCAR HL '23: NASCAR Cup Series Race</title>
+    <desc lang="en">'NASCAR Cup Series Highlights - NOCO 400'. From Martinsville Speedway - Ridgeway, USA.(n)</desc>
+  </programme>
+  <programme start="20230420190000 +0000" stop="20230420193000 +0000" channel="SS Variety 2">
+    <title lang="en">Arena eSports</title>
+    <desc lang="en">'S2/E322 of 52'. A weekly program that covers everything in the massively popular world of professional level gaming.(n)</desc>
+  </programme>
+  <programme start="20230420193000 +0000" stop="20230420203000 +0000" channel="SS Variety 2">
+    <title lang="en">She's Got Game</title>
+    <desc lang="en">'S23/E4 of 13'. Explore the stories of women in the world of sport. This week we celebrate the 100-day countdown to the Netball World Cup with former players, officials and a host of other special guests.(n)</desc>
+  </programme>
+  <programme start="20230420203000 +0000" stop="20230420204500 +0000" channel="SS Variety 2">
+    <title lang="en">Cape Town Cycle Tour HL '23</title>
+    <desc lang="en">Highlights. With the 45th running of its world-famous cycling tour as its crescendo, this future-star event is hosted in the Cape Town Stadium Precinct, in the shadow of Table Mountain.(n)</desc>
+  </programme>
+  <programme start="20230420204500 +0000" stop="20230420205000 +0000" channel="SS Variety 2">
+    <title lang="en">UCL HL 22/23 QF: Napoli v AC Milan</title>
+    <desc lang="en">'UEFA Champions League Blitz Highlights - Quarter-final 2nd Leg: Napoli vs AC Milan'. From Stadio Diego Armando Maradona - Napoli, Italy.(n)</desc>
+  </programme>
+  <programme start="20230420205000 +0000" stop="20230420205500 +0000" channel="SS Variety 2">
+    <title lang="en">UCL HL 22/23 QF: Bayern v Man City</title>
+    <desc lang="en">'UEFA Champions League Blitz Highlights - Quarter-final 2nd Leg: Bayern Munich vs Manchester City'. From Football Arena Munchen - Munich, Germany.(n)</desc>
+  </programme>
+  <programme start="20230420205500 +0000" stop="20230420233000 +0000" channel="SS Variety 2">
+    <title lang="en">Live: UEL 22/23 QF: Union SG v Leverkusen</title>
+    <desc lang="en">'UEFA Europa League - Quarter-final 2nd Leg: Union SG vs Bayer Leverkusen'. LIVE From Anderlecht Stadium - Brussels, Belgium.(n)</desc>
+  </programme>
+  <programme start="20230420233000 +0000" stop="20230421003000 +0000" channel="SS Variety 2">
+    <title lang="en">PSA 22/23: British Open (W) Final</title>
+    <desc lang="en">'PSA World Tour - British Open Women's Final'. From Birmingham, England.(n)</desc>
+  </programme>
+  <programme start="20230420002000 +0000" stop="20230420003000 +0000" channel="SS Variety 3">
+    <title lang="en">Boston Marathon HL '23</title>
+    <desc lang="en">127th Edition. From Boston, USA.(n)</desc>
+  </programme>
+  <programme start="20230420003000 +0000" stop="20230420040000 +0000" channel="SS Variety 3">
+    <title lang="en">FIG WC '23: Rhythmic Tashkent</title>
+    <desc lang="en">'FIG World Cup - Rhythmic Tashkent'. From Tashkent, Uzbekistan.(n)</desc>
+  </programme>
+  <programme start="20230420040000 +0000" stop="20230420045000 +0000" channel="SS Variety 3">
+    <title lang="en">World Surf League Presents</title>
+    <desc lang="en">'S10/E3 of 13 - MEO Rip Curl Pro Portugal'. We highlight the best action and stories from the World Surf League Championship Tour events.(n)</desc>
+  </programme>
+  <programme start="20230420045000 +0000" stop="20230420050000 +0000" channel="SS Variety 3">
+    <title lang="en">Let's Play</title>
+    <desc lang="en">'S23/E646 of 10'. A corporate social responsibility initiative developed by SuperSport and partners in response to a national need to get our children to be more active.(n)</desc>
+  </programme>
+  <programme start="20230420050000 +0000" stop="20230420051000 +0000" channel="SS Variety 3">
+    <title lang="en">ASA HL '23: Track and Field GP 2</title>
+    <desc lang="en">'Athletics South Africa Blitz Highlights - Track and Field Grand Prix 2 / Continental Tour Challenger'. From Germiston Stadium - Germiston, South Africa.(n)</desc>
+  </programme>
+  <programme start="20230420051000 +0000" stop="20230420052000 +0000" channel="SS Variety 3">
+    <title lang="en">Two Oceans Ultra Marathon HL '23</title>
+    <desc lang="en">'TotalSports Two Oceans Marathon Blitz Highlights - Ultra Marathon - 56km'. From Cape Town, South Africa.(n)</desc>
+  </programme>
+  <programme start="20230420052000 +0000" stop="20230420053000 +0000" channel="SS Variety 3">
+    <title lang="en">Rotterdam Marathon HL '23</title>
+    <desc lang="en">42nd Edition. From Rotterdam, Netherlands.(n)</desc>
+  </programme>
+  <programme start="20230420053000 +0000" stop="20230420054000 +0000" channel="SS Variety 3">
+    <title lang="en">Boston Marathon HL '23</title>
+    <desc lang="en">127th Edition. From Boston, USA.(n)</desc>
+  </programme>
+  <programme start="20230420054000 +0000" stop="20230420055000 +0000" channel="SS Variety 3">
+    <title lang="en">ASA HL '23: Track and Field GP 2</title>
+    <desc lang="en">'Athletics South Africa Blitz Highlights - Track and Field Grand Prix 2 / Continental Tour Challenger'. From Germiston Stadium - Germiston, South Africa.(n)</desc>
+  </programme>
+  <programme start="20230420055000 +0000" stop="20230420060000 +0000" channel="SS Variety 3">
+    <title lang="en">Two Oceans Ultra Marathon HL '23</title>
+    <desc lang="en">'TotalSports Two Oceans Marathon Blitz Highlights - Ultra Marathon - 56km'. From Cape Town, South Africa.(n)</desc>
+  </programme>
+  <programme start="20230420060000 +0000" stop="20230420080000 +0000" channel="SS Variety 3">
+    <title lang="en">ASA '23: Track and Field GP 2</title>
+    <desc lang="en">'Athletics South Africa - Track and Field Grand Prix 2 / Continental Tour Challenger'. From Germiston Stadium - Germiston, South Africa.(n)</desc>
+  </programme>
+  <programme start="20230420080000 +0000" stop="20230420100000 +0000" channel="SS Variety 3">
+    <title lang="en">GC W 22/23 SF: RB Leipzig v Freiburg</title>
+    <desc lang="en">'German Cup Women - Semi-final: RB Leipzig vs SC Freiburg'. From Red Bull Arena - Salzburg, Austria.(n)</desc>
+  </programme>
+  <programme start="20230420100000 +0000" stop="20230420120000 +0000" channel="SS Variety 3">
+    <title lang="en">GC (W) 22/23 SF: Bayern v Wolfsburg</title>
+    <desc lang="en">'German Cup Women - Semi-final: Bayern Munich vs Wolfsburg'. From FC Bayern Campus - Munich, Germany.(n)</desc>
+  </programme>
+  <programme start="20230420120000 +0000" stop="20230420143000 +0000" channel="SS Variety 3">
+    <title lang="en">WWE Raw</title>
+    <desc lang="en">'S23/E1560 of 52'. The superstars of the WWE RAW brand collide each and every week. Witness non-stop thrills and action as the superstars of the 'Red Brand' step inside the squared circle.(n)</desc>
+  </programme>
+  <programme start="20230420143000 +0000" stop="20230420180000 +0000" channel="SS Variety 3">
+    <title lang="en">FIG WC '23: Rhythmic Tashkent</title>
+    <desc lang="en">'FIG World Cup - Rhythmic Tashkent'. From Tashkent, Uzbekistan.(n)</desc>
+  </programme>
+  <programme start="20230420180000 +0000" stop="20230420183000 +0000" channel="SS Variety 3">
+    <title lang="en">FIBA World Basketball</title>
+    <desc lang="en">'S23/E901 of 52'. Kristaps Porzingis looks forward to representing Latvia at its first ever World Cup.(n)</desc>
+  </programme>
+  <programme start="20230420183000 +0000" stop="20230420184000 +0000" channel="SS Variety 3">
+    <title lang="en">Basketball Feature</title>
+    <desc lang="en">'S23/E1 of 5 - Vincent Ntunja'. In their third season of the BAL, Cape Town Tigers are embarking on a mission to reach Kigali again, the technical team in charge of helping the team reach their goal share their thoughts.(n)</desc>
+  </programme>
+  <programme start="20230420184000 +0000" stop="20230420185000 +0000" channel="SS Variety 3">
+    <title lang="en">Basketball Feature</title>
+    <desc lang="en">'S23/E2 of 5 - Mlungisi Flosh'. In their third season of the BAL, Cape Town Tigers are embarking on a mission to reach Kigali again, the technical team in charge of helping the team reach their goal share their thoughts.(n)</desc>
+  </programme>
+  <programme start="20230420185000 +0000" stop="20230420190000 +0000" channel="SS Variety 3">
+    <title lang="en">Basketball Feature</title>
+    <desc lang="en">'S23/E3 of 5 - Rasheed Hazzard'. In their third season of the BAL, Cape Town Tigers are embarking on a mission to reach Kigali again, the technical team in charge of helping the team reach their goal share their thoughts.(n)</desc>
+  </programme>
+  <programme start="20230420190000 +0000" stop="20230420193000 +0000" channel="SS Variety 3">
+    <title lang="en">Jambo WWE</title>
+    <desc lang="en">'S23/E39 of 52'. The Jambo WWE crew recap all the action from WWE SmackDown, WWE Raw, WWE NXT 2.0 and Premium Live Events from Africa's perspective. This is your ringside seat, witness the most exciting moments from the week's WWE action.(n)</desc>
+  </programme>
+  <programme start="20230420193000 +0000" stop="20230420200000 +0000" channel="SS Variety 3">
+    <title lang="en">Dream Teams</title>
+    <desc lang="en">'S2/E9 of 52 - World Cup Heroes vs Trophy Gluttons'. There are World Cup heroes galore for Germany, and how many of the 2010s trophy-gluttons can break into the Paris Saint-Germain's greatest XI?(n)</desc>
+  </programme>
+  <programme start="20230420200000 +0000" stop="20230420203000 +0000" channel="SS Variety 3">
+    <title lang="en">EFL HL</title>
+    <desc lang="en">'SkyBet English Football League Championship Highlights. S23/E33 of 37'. A weekly round-up on the week's SkyBet English Football League Championship games.(n)</desc>
+  </programme>
+  <programme start="20230420203000 +0000" stop="20230420203500 +0000" channel="SS Variety 3">
+    <title lang="en">UCL HL 22/23 QF: Chelsea v R Madrid</title>
+    <desc lang="en">'UEFA Champions League Blitz Highlights - Quarter-final 2nd Leg: Chelsea vs Real Madrid'. From Stamford Bridge - London, England.(n)</desc>
+  </programme>
+  <programme start="20230420203500 +0000" stop="20230420204000 +0000" channel="SS Variety 3">
+    <title lang="en">UCL HL 22/23 QF: Napoli v AC Milan</title>
+    <desc lang="en">'UEFA Champions League Blitz Highlights - Quarter-final 2nd Leg: Napoli vs AC Milan'. From Stadio Diego Armando Maradona - Napoli, Italy.(n)</desc>
+  </programme>
+  <programme start="20230420204000 +0000" stop="20230420204500 +0000" channel="SS Variety 3">
+    <title lang="en">UCL HL 22/23 QF: Bayern v Man City</title>
+    <desc lang="en">'UEFA Champions League Blitz Highlights - Quarter-final 2nd Leg: Bayern Munich vs Manchester City'. From Football Arena Munchen - Munich, Germany.(n)</desc>
+  </programme>
+  <programme start="20230420204500 +0000" stop="20230420205000 +0000" channel="SS Variety 3">
+    <title lang="en">UCL HL 22/23 QF: Inter v Benfica</title>
+    <desc lang="en">'UEFA Champions League Blitz Highlights - Quarter-final 2nd Leg: Inter Milan vs Benfica'. From San Siro - Milan, Italy.(n)</desc>
+  </programme>
+  <programme start="20230420205000 +0000" stop="20230420205500 +0000" channel="SS Variety 3">
+    <title lang="en">UCL HL 22/23 QF: Chelsea v R Madrid</title>
+    <desc lang="en">'UEFA Champions League Blitz Highlights - Quarter-final 2nd Leg: Chelsea vs Real Madrid'. From Stamford Bridge - London, England.(n)</desc>
+  </programme>
+  <programme start="20230420205500 +0000" stop="20230420233000 +0000" channel="SS Variety 3">
+    <title lang="en">Live: UECL 22/23 QF: West Ham v Gent</title>
+    <desc lang="en">'UEFA Europa Conference League - Quarter-final 2nd Leg: West Ham United vs Gent'. LIVE From London Stadium - London, England.(n)</desc>
+  </programme>
+  <programme start="20230420233000 +0000" stop="20230421000000 +0000" channel="SS Variety 3">
+    <title lang="en">Jambo WWE</title>
+    <desc lang="en">'S23/E39 of 52'. The Jambo WWE crew recap all the action from WWE SmackDown, WWE Raw, WWE NXT 2.0 and Premium Live Events from Africa's perspective. This is your ringside seat, witness the most exciting moments from the week's WWE action.(n)</desc>
+  </programme>
+  <programme start="20230420000000 +0000" stop="20230420003000 +0000" channel="SS Variety 4">
+    <title lang="en">URC HL 22/23: Lions v Leinster</title>
+    <desc lang="en">'Vodacom United Rugby Championship Highlights - Round 17: Emirates Lions vs Leinster Rugby'. From Emirates Airline Park - Johannesburg, South Africa.(n)</desc>
+  </programme>
+  <programme start="20230420003000 +0000" stop="20230420010000 +0000" channel="SS Variety 4">
+    <title lang="en">URC HL 22/23: Bulls v Zebre</title>
+    <desc lang="en">'Vodacom United Rugby Championship Highlights - Round 17: Vodacom Bulls vs Zebre Parma'. From Emirates Airline Park - Johannesburg, South Africa.(n)</desc>
+  </programme>
+  <programme start="20230420010000 +0000" stop="20230420013000 +0000" channel="SS Variety 4">
+    <title lang="en">URC HL 22/23: Stormers v Munster</title>
+    <desc lang="en">'Vodacom United Rugby Championship Highlights - Round 17: DHL Stormers vs Munster Rugby'. From DHL Stadium - Cape Town, South Africa.(n)</desc>
+  </programme>
+  <programme start="20230420013000 +0000" stop="20230420014000 +0000" channel="SS Variety 4">
+    <title lang="en">ASA HL '23: Track and Field GP 2</title>
+    <desc lang="en">'Athletics South Africa Blitz Highlights - Track and Field Grand Prix 2 / Continental Tour Challenger'. From Germiston Stadium - Germiston, South Africa.(n)</desc>
+  </programme>
+  <programme start="20230420014000 +0000" stop="20230420014500 +0000" channel="SS Variety 4">
+    <title lang="en">Put Your Hands Up for the Proteas</title>
+    <desc lang="en">'S23/E51 of 51'. Journey with the Proteas as they prepare for the sport's greatest showpiece - the Netball World Cup on home soil in Cape Town later this year.(n)</desc>
+  </programme>
+  <programme start="20230420014500 +0000" stop="20230420020000 +0000" channel="SS Variety 4">
+    <title lang="en">Sports Trust</title>
+    <desc lang="en">'S23/E8 of 26'. This initiative increases access and creates opportunities for all South Africans to participate in sport through the provision of equipment and facilities, and it helps create a greater sporting tradition in our society.(n)</desc>
+  </programme>
+  <programme start="20230420020000 +0000" stop="20230420040000 +0000" channel="SS Variety 4">
+    <title lang="en">GC (W) 22/23 SF: Bayern v Wolfsburg</title>
+    <desc lang="en">'German Cup Women - Semi-final: Bayern Munich vs Wolfsburg'. From FC Bayern Campus - Munich, Germany.(n)</desc>
+  </programme>
+  <programme start="20230420040000 +0000" stop="20230420060000 +0000" channel="SS Variety 4">
+    <title lang="en">GC W 22/23 SF: RB Leipzig v Freiburg</title>
+    <desc lang="en">'German Cup Women - Semi-final: RB Leipzig vs SC Freiburg'. From Red Bull Arena - Salzburg, Austria.(n)</desc>
+  </programme>
+  <programme start="20230420060000 +0000" stop="20230420063000 +0000" channel="SS Variety 4">
+    <title lang="en">Sports Bulletin Around The Clock</title>
+    <desc lang="en">Coverage of your favourite sports: football, golf, rugby, cricket, tennis, F1, boxing, plus the latest sports news, transfers and scores.(n)</desc>
+  </programme>
+  <programme start="20230420063000 +0000" stop="20230420070000 +0000" channel="SS Variety 4">
+    <title lang="en">Reel Africa</title>
+    <desc lang="en">'S8/E8 of 11'. The Reel Africa team comprises of angling talents from every facet of fishing, discovering the treasure trove of fish to be found in and around the waterways of Africa.(n)</desc>
+  </programme>
+  <programme start="20230420070000 +0000" stop="20230420073000 +0000" channel="SS Variety 4">
+    <title lang="en">5 Colour Fitness</title>
+    <desc lang="en">'S13/E24 of 60 - Team 4 Episode 5: Team Blue - Bodyweight Training'. Join Team Blue every Thursday for strength and conditioning routines.. #5colourfitness.(n)</desc>
+  </programme>
+  <programme start="20230420073000 +0000" stop="20230420080000 +0000" channel="SS Variety 4">
+    <title lang="en">Total Combat</title>
+    <desc lang="en">'S23/E427 of 52'. Get the latest news, previews, reviews and profiles. We take a look at multilple combat sports including, mixed martial arts, boxing, kickboxing and more.(n)</desc>
+  </programme>
+  <programme start="20230420080000 +0000" stop="20230420083000 +0000" channel="SS Variety 4">
+    <title lang="en">Kasi Games Show</title>
+    <desc lang="en">'S23/E45 of 52'. The show will focus on the games that take place in our townships throughout the country, showcasing local talent and putting a spotlight on big seasonal township tournament of all sporting codes.(n)</desc>
+  </programme>
+  <programme start="20230420083000 +0000" stop="20230420090000 +0000" channel="SS Variety 4">
+    <title lang="en">PSL Limpopo Edition</title>
+    <desc lang="en">'S23/E6 of 10'. The show features teams in Limpopo in the current PSL season, we get to know the players, coaching staff and also the visionaries of the clubs.(n)</desc>
+  </programme>
+  <programme start="20230420090000 +0000" stop="20230420100000 +0000" channel="SS Variety 4">
+    <title lang="en">ST HL 22/23 Stella Artois Players D4</title>
+    <desc lang="en">'Sunshine Tour Highlights - Stella Artois Players Championship Day 4'. From Dainfern CC - Johannesburg, South Africa.(n)</desc>
+  </programme>
+  <programme start="20230420100000 +0000" stop="20230420110000 +0000" channel="SS Variety 4">
+    <title lang="en">PGA Tour HL 22/23 RBC Heritage</title>
+    <desc lang="en">'PGA Tour Event Highlights - RBC Heritage'. From Harbour Town Golf Links - Hilton Head Island, USA.(n)</desc>
+  </programme>
+  <programme start="20230420110000 +0000" stop="20230420113000 +0000" channel="SS Variety 4">
+    <title lang="en">SuperSwimmer</title>
+    <desc lang="en">'S27/E25 of 26'. We profile current and potential South African olympians with highlights and news from the aquatic fraternity.(n)</desc>
+  </programme>
+  <programme start="20230420113000 +0000" stop="20230420133000 +0000" channel="SS Variety 4">
+    <title lang="en">ASA '23: Track and Field GP 2</title>
+    <desc lang="en">'Athletics South Africa - Track and Field Grand Prix 2 / Continental Tour Challenger'. From Germiston Stadium - Germiston, South Africa.(n)</desc>
+  </programme>
+  <programme start="20230420133000 +0000" stop="20230420140000 +0000" channel="SS Variety 4">
+    <title lang="en">Invincible</title>
+    <desc lang="en">'S1/E7 of 13 - Episode 7: Floyd Mayweather'. Floyd Mayweather fought 50 times for 50 wins in one of boxing most colourful careers.(n)</desc>
+  </programme>
+  <programme start="20230420140000 +0000" stop="20230420150000 +0000" channel="SS Variety 4">
+    <title lang="en">MotoGP '23: Americas Moto2</title>
+    <desc lang="en">'MotoGP - Americas Moto2'. From Circuit of the Americas - Austin, USA.(n)</desc>
+  </programme>
+  <programme start="20230420150000 +0000" stop="20230420160000 +0000" channel="SS Variety 4">
+    <title lang="en">MotoGP '23: Americas MotoGP</title>
+    <desc lang="en">'MotoGP - Americas MotoGP'. From Circuit of the Americas - Austin, USA.(n)</desc>
+  </programme>
+  <programme start="20230420160000 +0000" stop="20230420170000 +0000" channel="SS Variety 4">
+    <title lang="en">MotoGP '23: Americas Moto3</title>
+    <desc lang="en">'MotoGP - Americas Moto3'. From Circuit of the Americas - Austin, USA.(n)</desc>
+  </programme>
+  <programme start="20230420170000 +0000" stop="20230420173000 +0000" channel="SS Variety 4">
+    <title lang="en">5 Colour Fitness</title>
+    <desc lang="en">'S13/E24 of 60 - Team 4 Episode 5: Team Blue - Bodyweight Training'. Join Team Blue every Thursday for strength and conditioning routines.. #5colourfitness.(n)</desc>
+  </programme>
+  <programme start="20230420173000 +0000" stop="20230420173500 +0000" channel="SS Variety 4">
+    <title lang="en">Put Your Hands Up for the Proteas</title>
+    <desc lang="en">'S23/E1 of 51'. Journey with the Proteas as they prepare for the sport's greatest showpiece - the Netball World Cup on home soil in Cape Town later this year.(n)</desc>
+  </programme>
+  <programme start="20230420173500 +0000" stop="20230420174500 +0000" channel="SS Variety 4">
+    <title lang="en">Rotterdam Marathon HL '23</title>
+    <desc lang="en">42nd Edition. From Rotterdam, Netherlands.(n)</desc>
+  </programme>
+  <programme start="20230420174500 +0000" stop="20230420180000 +0000" channel="SS Variety 4">
+    <title lang="en">Cape Town Cycle Tour HL '23</title>
+    <desc lang="en">Highlights. With the 45th running of its world-famous cycling tour as its crescendo, this future-star event is hosted in the Cape Town Stadium Precinct, in the shadow of Table Mountain.(n)</desc>
+  </programme>
+  <programme start="20230420180000 +0000" stop="20230420183000 +0000" channel="SS Variety 4">
+    <title lang="en">Toyota Cadence</title>
+    <desc lang="en">'S23/E288 of 49'. A preview of upcoming events, equipment review, and all things cycling, including interviews with some well-known personalities.(n)</desc>
+  </programme>
+  <programme start="20230420183000 +0000" stop="20230420183500 +0000" channel="SS Variety 4">
+    <title lang="en">ATP1000 HL '23: Monte-Carlo SF1</title>
+    <desc lang="en">'ATP World Tour Masters 1000 Blitz Highlights - Rolex Monte-Carlo Masters Semi-final 1: Andrey Rublev vs Taylor Fritz'. From Monte Carlo Country Club - Monte Carlo, Monaco.(n)</desc>
+  </programme>
+  <programme start="20230420183500 +0000" stop="20230420184000 +0000" channel="SS Variety 4">
+    <title lang="en">ATP1000 HL '23: Monte-Carlo SF2</title>
+    <desc lang="en">'ATP World Tour Masters 1000 Blitz Highlights - Rolex Monte-Carlo Masters Semi-final 2: Jannik Sinner vs Holger Rune'. From Monte Carlo Country Club - Monte Carlo, Monaco.(n)</desc>
+  </programme>
+  <programme start="20230420184000 +0000" stop="20230420204000 +0000" channel="SS Variety 4">
+    <title lang="en">ATP1000 '23: Monte-Carlo Final</title>
+    <desc lang="en">'ATP World Tour Masters 1000 - Rolex Monte-Carlo Masters Final: Holger Rune vs Andrey Rublev'. From Monte Carlo Country Club - Monte Carlo, Monaco.(n)</desc>
+  </programme>
+  <programme start="20230420204000 +0000" stop="20230420205500 +0000" channel="SS Variety 4">
+    <title lang="en">Premier Interschools Preview</title>
+    <desc lang="en">'S23/E3 of 12'. A preview of the week's Premier Interschools fixtures.(n)</desc>
+  </programme>
+  <programme start="20230420205500 +0000" stop="20230420233000 +0000" channel="SS Variety 4">
+    <title lang="en">Live: UECL 22/23 QF: Nice v Basel</title>
+    <desc lang="en">'UEFA Europa Conference League - Quarter-final 2nd Leg: Nice vs Basel'. Live from Grand Stade De Nice - Nice, France.(n)</desc>
+  </programme>
+  <programme start="20230420233000 +0000" stop="20230421003000 +0000" channel="SS Variety 4">
+    <title lang="en">Africa Sport On</title>
+    <desc lang="en">'S23/E357 of 48'. Highlights of sporting events from Nigeria as well as Nigerian sports personalities across the world.(n)</desc>
+  </programme>
+  <programme start="20230420010500 +0000" stop="20230420030000 +0000" channel="SS Rugby">
+    <title lang="en">Varsity Cup '23 Promotion/Relegation</title>
+    <desc lang="en">'FNB Varsity Cup - Promotion-Relegation Play-off: Central University of Technology vs Nelson Mandela University'. From Fanie du Toit Sports Ground - Potchefstroom, South Africa.(n)</desc>
+  </programme>
+  <programme start="20230420030000 +0000" stop="20230420050000 +0000" channel="SS Rugby">
+    <title lang="en">GPR 22/23: Northampton v Saracens</title>
+    <desc lang="en">'Gallagher Premiership Rugby - Round 22: Northampton Saints vs Saracens'. From Franklin's Gardens - Northampton, England.(n)</desc>
+  </programme>
+  <programme start="20230420050000 +0000" stop="20230420060000 +0000" channel="SS Rugby">
+    <title lang="en">GPR HL: Round 22</title>
+    <desc lang="en">'Gallagher Premiership Rugby Highlights - Round 22'. Highlights of the latest action from the Gallagher Premiership with all the big hits, tries and results.(n)</desc>
+  </programme>
+  <programme start="20230420060000 +0000" stop="20230420060500 +0000" channel="SS Rugby">
+    <title lang="en">CC HL '23: Sharks v Bulls</title>
+    <desc lang="en">'Currie Cup - Premier Division Blitz Highlights - Round 6: Cell C Sharks vs Vodacom Bulls'. From Hollywoodbets Kings Park - Durban, South Africa.(n)</desc>
+  </programme>
+  <programme start="20230420060500 +0000" stop="20230420061000 +0000" channel="SS Rugby">
+    <title lang="en">CC HL '23: WP v Cheetahs</title>
+    <desc lang="en">'Currie Cup - Premier Division Blitz Highlights - Round 6: DHL Western Province vs Toyota Cheetahs'. From DHL Stadium - Cape Town, South Africa.(n)</desc>
+  </programme>
+  <programme start="20230420061000 +0000" stop="20230420061500 +0000" channel="SS Rugby">
+    <title lang="en">CC HL '23: Griffons v Pumas</title>
+    <desc lang="en">'Currie Cup - Premier Division Blitz Highlights - Round 6: NovaVit Griffons vs Airlink Pumas'. From Down Touch Investments Stadium - Welkom, South Africa.(n)</desc>
+  </programme>
+  <programme start="20230420061500 +0000" stop="20230420062000 +0000" channel="SS Rugby">
+    <title lang="en">CC HL '23: Lions v Griquas</title>
+    <desc lang="en">'Currie Cup - Premier Division Blitz Highlights - Round 6: Fidelity ADT Lions vs Windhoek Draught Griquas'. From Emirates Airline Park - Johannesburg, South Africa.(n)</desc>
+  </programme>
+  <programme start="20230420062000 +0000" stop="20230420062500 +0000" channel="SS Rugby">
+    <title lang="en">SRP HL '23: M Pasifika v Reds</title>
+    <desc lang="en">'Super Rugby Pacific Blitz Highlights - Round 8: Moana Pasifika vs Reds'. From Apia Park - Apia, Samoa.(n)</desc>
+  </programme>
+  <programme start="20230420062500 +0000" stop="20230420063000 +0000" channel="SS Rugby">
+    <title lang="en">SRP HL '23: Brumbies v Drua</title>
+    <desc lang="en">'Super Rugby Pacific Blitz Highlights - Round 8: Brumbies vs Fijian Drua'. From GIO Stadium - Canberra, Australia.(n)</desc>
+  </programme>
+  <programme start="20230420063000 +0000" stop="20230420063500 +0000" channel="SS Rugby">
+    <title lang="en">SRP HL '23: Hurricanes v Chiefs</title>
+    <desc lang="en">'Super Rugby Pacific Blitz Highlights - Round 8: Hurricanes vs Chiefs'. From Sky Stadium - Wellington, New Zealand.(n)</desc>
+  </programme>
+  <programme start="20230420063500 +0000" stop="20230420064000 +0000" channel="SS Rugby">
+    <title lang="en">SRP HL '23: Waratahs v Force</title>
+    <desc lang="en">'Super Rugby Pacific Blitz Highlights - Round 8: Waratahs vs Force'. From Allianz Stadium - Sydney, Australia.(n)</desc>
+  </programme>
+  <programme start="20230420064000 +0000" stop="20230420064500 +0000" channel="SS Rugby">
+    <title lang="en">URC HL 22/23: Sharks v Benetton</title>
+    <desc lang="en">'Vodacom United Rugby Championship Blitz Highlights - Round 17: Cell C Sharks vs Benetton'. From Hollywoodbets Kings Park - Durban, South Africa.(n)</desc>
+  </programme>
+  <programme start="20230420064500 +0000" stop="20230420065000 +0000" channel="SS Rugby">
+    <title lang="en">URC HL 22/23: Lions v Leinster</title>
+    <desc lang="en">'Vodacom United Rugby Championship Blitz Highlights - Round 17: Emirates Lions vs Leinster Rugby'. From Emirates Airline Park - Johannesburg, South Africa.(n)</desc>
+  </programme>
+  <programme start="20230420065000 +0000" stop="20230420065500 +0000" channel="SS Rugby">
+    <title lang="en">URC HL 22/23: Bulls v Zebre</title>
+    <desc lang="en">'Vodacom United Rugby Championship Blitz Highlights - Round 17: Vodacom Bulls vs Zebre Parma'. From Emirates Airline Park - Johannesburg, South Africa.(n)</desc>
+  </programme>
+  <programme start="20230420065500 +0000" stop="20230420070000 +0000" channel="SS Rugby">
+    <title lang="en">URC HL 22/23: Stormers v Munster</title>
+    <desc lang="en">'Vodacom United Rugby Championship Blitz Highlights - Round 17: DHL Stormers vs Munster Rugby'. From DHL Stadium - Cape Town, South Africa.(n)</desc>
+  </programme>
+  <programme start="20230420070000 +0000" stop="20230420070500 +0000" channel="SS Rugby">
+    <title lang="en">CC HL '23: Sharks v Bulls</title>
+    <desc lang="en">'Currie Cup - Premier Division Blitz Highlights - Round 6: Cell C Sharks vs Vodacom Bulls'. From Hollywoodbets Kings Park - Durban, South Africa.(n)</desc>
+  </programme>
+  <programme start="20230420070500 +0000" stop="20230420072000 +0000" channel="SS Rugby">
+    <title lang="en">Premier Interschools Preview</title>
+    <desc lang="en">'S23/E3 of 12'. A preview of the week's Premier Interschools fixtures.(n)</desc>
+  </programme>
+  <programme start="20230420072000 +0000" stop="20230420075000 +0000" channel="SS Rugby">
+    <title lang="en">URC HL 22/23: Sharks v Benetton</title>
+    <desc lang="en">'Vodacom United Rugby Championship Highlights - Round 17: Cell C Sharks vs Benetton'. From Hollywoodbets Kings Park - Durban, South Africa.(n)</desc>
+  </programme>
+  <programme start="20230420075000 +0000" stop="20230420082000 +0000" channel="SS Rugby">
+    <title lang="en">URC HL 22/23: Lions v Leinster</title>
+    <desc lang="en">'Vodacom United Rugby Championship Highlights - Round 17: Emirates Lions vs Leinster Rugby'. From Emirates Airline Park - Johannesburg, South Africa.(n)</desc>
+  </programme>
+  <programme start="20230420082000 +0000" stop="20230420085000 +0000" channel="SS Rugby">
+    <title lang="en">URC HL 22/23: Bulls v Zebre</title>
+    <desc lang="en">'Vodacom United Rugby Championship Highlights - Round 17: Vodacom Bulls vs Zebre Parma'. From Emirates Airline Park - Johannesburg, South Africa.(n)</desc>
+  </programme>
+  <programme start="20230420085000 +0000" stop="20230420092000 +0000" channel="SS Rugby">
+    <title lang="en">URC HL 22/23: Stormers v Munster</title>
+    <desc lang="en">'Vodacom United Rugby Championship Highlights - Round 17: DHL Stormers vs Munster Rugby'. From DHL Stadium - Cape Town, South Africa.(n)</desc>
+  </programme>
+  <programme start="20230420092000 +0000" stop="20230420095000 +0000" channel="SS Rugby">
+    <title lang="en">CC HL '23 Bulls v Griquas</title>
+    <desc lang="en">'Currie Cup - Premier Division Highlights - Round 5: Vodacom Bulls vs Windhoek Draught Griquas'. From Loftus Versfeld - Pretoria, South Africa.(n)</desc>
+  </programme>
+  <programme start="20230420095000 +0000" stop="20230420102000 +0000" channel="SS Rugby">
+    <title lang="en">CC HL '23 Sharks v Pumas</title>
+    <desc lang="en">'Currie Cup - Premier Division Highlights - Round 5: Cell C Sharks vs Airlink Pumas'. From Hollywoodbets Kings Park - Durban, South Africa.(n)</desc>
+  </programme>
+  <programme start="20230420102000 +0000" stop="20230420105000 +0000" channel="SS Rugby">
+    <title lang="en">CC HL '23 Lions v Cheetahs</title>
+    <desc lang="en">'Currie Cup - Premier Division Highlights - Round 5: Fidelity ADT Lions vs Toyota Cheetahs'. From Emirates Airline Park - Johannesburg, South Africa.(n)</desc>
+  </programme>
+  <programme start="20230420105000 +0000" stop="20230420112000 +0000" channel="SS Rugby">
+    <title lang="en">CC HL '23 WP v Griffons</title>
+    <desc lang="en">'Currie Cup - Premier Division Highlights - Round 5: DHL Western Province vs NovaVit Griffons'. From DHL Stadium - Cape Town, South Africa.(n)</desc>
+  </programme>
+  <programme start="20230420112000 +0000" stop="20230420115000 +0000" channel="SS Rugby">
+    <title lang="en">Rugby Kuiers</title>
+    <desc lang="en">'S23/E121 of 30'. Hennie Koortzen and Wynie Strydom talk to current and former rugby players about their careers, milestones and all things rugby.(n)</desc>
+  </programme>
+  <programme start="20230420115000 +0000" stop="20230420125000 +0000" channel="SS Rugby">
+    <title lang="en">The Breakdown</title>
+    <desc lang="en">'S23/E8 of 35'. A preview show featuring in-depth discussions, match analysis, exclusive interviews and a weekly feature story.(n)</desc>
+  </programme>
+  <programme start="20230420125000 +0000" stop="20230420145000 +0000" channel="SS Rugby">
+    <title lang="en">URC 22/23: Sharks v Benetton</title>
+    <desc lang="en">'Vodacom United Rugby Championship - Round 17: Cell C Sharks vs Benetton'. From Hollywoodbets Kings Park - Durban, South Africa.(n)</desc>
+  </programme>
+  <programme start="20230420145000 +0000" stop="20230420165000 +0000" channel="SS Rugby">
+    <title lang="en">URC 22/23: Lions v Leinster</title>
+    <desc lang="en">'Vodacom United Rugby Championship - Round 17: Emirates Lions vs Leinster Rugby'. From Emirates Airline Park - Johannesburg, South Africa.(n)</desc>
+  </programme>
+  <programme start="20230420165000 +0000" stop="20230420170000 +0000" channel="SS Rugby">
+    <title lang="en">Varsity Cup HL '23 Final: NWU v UCT</title>
+    <desc lang="en">'FNB Varsity Cup Blitz Highlights - Final: North-West University vs University of Cape Town'. From Fanie du Toit Sports Ground - Potchefstroom, South Africa.(n)</desc>
+  </programme>
+  <programme start="20230420170000 +0000" stop="20230420180000 +0000" channel="SS Rugby">
+    <title lang="en">Phaka</title>
+    <desc lang="en">'S23/E292 of 46'. We focus on telling the untold stories in South African rugby, profile past legends and current stars in SA rugby, clubs and schools.(n)</desc>
+  </programme>
+  <programme start="20230420180000 +0000" stop="20230420200000 +0000" channel="SS Rugby">
+    <title lang="en">URC 22/23: Bulls v Zebre</title>
+    <desc lang="en">'Vodacom United Rugby Championship - Round 17: Vodacom Bulls vs Zebre Parma'. From Emirates Airline Park - Johannesburg, South Africa.(n)</desc>
+  </programme>
+  <programme start="20230420200000 +0000" stop="20230420220000 +0000" channel="SS Rugby">
+    <title lang="en">URC 22/23: Stormers v Munster</title>
+    <desc lang="en">'Vodacom United Rugby Championship - Round 17: DHL Stormers vs Munster Rugby'. From DHL Stadium - Cape Town, South Africa.(n)</desc>
+  </programme>
+  <programme start="20230420220000 +0000" stop="20230421000000 +0000" channel="SS Rugby">
+    <title lang="en">URC 22/23: Glasgow v Scarlets</title>
+    <desc lang="en">'Vodacom United Rugby Championship - Round 17: Glasgow Warriors vs Scarlets'. From Scotstoun Stadium - Glasgow, Scotland.(n)</desc>
+  </programme>
+  <programme start="20230420011000 +0000" stop="20230420021000 +0000" channel="SS Motorsport">
+    <title lang="en">Asian Le Mans Series</title>
+    <desc lang="en">'S23/E5 of 5 - Season Review'. Watch all the highlights from the Asian Le Mans Series, as the best drivers in the world went head to head in Dubai and Abu Dhabi.(n)</desc>
+  </programme>
+  <programme start="20230420021000 +0000" stop="20230420031000 +0000" channel="SS Motorsport">
+    <title lang="en">IndyCar HL '23: Acura GP of Long Beach</title>
+    <desc lang="en">'IndyCar Series Highlights - Acura Grand Prix of Long Beach'. From Streets of Long Beach - Long Beach, USA.(n)</desc>
+  </programme>
+  <programme start="20230420031000 +0000" stop="20230420041000 +0000" channel="SS Motorsport">
+    <title lang="en">NASCAR HL '23: NASCAR Cup Series Race</title>
+    <desc lang="en">'NASCAR Cup Series Highlights - NOCO 400'. From Martinsville Speedway - Ridgeway, USA.(n)</desc>
+  </programme>
+  <programme start="20230420041000 +0000" stop="20230420050000 +0000" channel="SS Motorsport">
+    <title lang="en">FIA Formula E Race Preview</title>
+    <desc lang="en">'S23/E7 of 11 - Episode 7: Berlin'. Watch wheel-to-wheel racing on the iconic city streets of world.(n)</desc>
+  </programme>
+  <programme start="20230420050000 +0000" stop="20230420060000 +0000" channel="SS Motorsport">
+    <title lang="en">World Rally Champs HL</title>
+    <desc lang="en">Mexico. Highlights from the fifty-first season of the World Rally Championship, the highest class of international rallying.(n)</desc>
+  </programme>
+  <programme start="20230420060000 +0000" stop="20230420083000 +0000" channel="SS Motorsport">
+    <title lang="en">IndyCar '23: Acura GP of Long Beach</title>
+    <desc lang="en">'IndyCar Series - Acura Grand Prix of Long Beach'. From Streets of Long Beach - Long Beach, USA.(n)</desc>
+  </programme>
+  <programme start="20230420083000 +0000" stop="20230420093000 +0000" channel="SS Motorsport">
+    <title lang="en">FIA WEC HL '23: GP of Portimão</title>
+    <desc lang="en">'FIA World Endurance Championship Highlights. FIA World Endurance Championship Highlights - 6 Hours of Portimão'. From Algarve International Circuit - Portimão, Portugal.(n)</desc>
+  </programme>
+  <programme start="20230420093000 +0000" stop="20230420102000 +0000" channel="SS Motorsport">
+    <title lang="en">Bennetts British SBK Championship HL</title>
+    <desc lang="en">'S23/E1 of 11 - Round 1: Silverstone National'. Bennetts British Superbike Championship Highlights 2023. Round 1: Silverstone National.(n)</desc>
+  </programme>
+  <programme start="20230420102000 +0000" stop="20230420103000 +0000" channel="SS Motorsport">
+    <title lang="en">F1 HL '23: Saudi Arabia GP</title>
+    <desc lang="en">'Formula One Blitz Highlights - STC Saudi Arabian Grand Prix'. From Jeddah Corniche Circuit - Jeddah, Saudi Arabia.(n)</desc>
+  </programme>
+  <programme start="20230420103000 +0000" stop="20230420104000 +0000" channel="SS Motorsport">
+    <title lang="en">F1 HL '23: Australia GP</title>
+    <desc lang="en">'Formula One Blitz Highlights - Rolex Australian Grand Prix'. From Melbourne Grand Prix Circuit - Melbourne, Australia.(n)</desc>
+  </programme>
+  <programme start="20230420104000 +0000" stop="20230420134000 +0000" channel="SS Motorsport">
+    <title lang="en">NASCAR '23: NOCO 400</title>
+    <desc lang="en">'NASCAR Cup Series - NOCO 400'. From Martinsville Speedway - Ridgeway, USA.(n)</desc>
+  </programme>
+  <programme start="20230420134000 +0000" stop="20230420144000 +0000" channel="SS Motorsport">
+    <title lang="en">Asian Le Mans Series</title>
+    <desc lang="en">'S23/E5 of 5 - Season Review'. Watch all the highlights from the Asian Le Mans Series, as the best drivers in the world went head to head in Dubai and Abu Dhabi.(n)</desc>
+  </programme>
+  <programme start="20230420144000 +0000" stop="20230420151000 +0000" channel="SS Motorsport">
+    <title lang="en">Extreme E - The Electric Odyssey</title>
+    <desc lang="en">'S23/E4 of 20'. We bring electric racing to some of the most remote corners of the planet to highlight the climate change challenges faced by different ecosystems, whilst showcasing the performance of all e-SUVs in extreme conditions.(n)</desc>
+  </programme>
+  <programme start="20230420151000 +0000" stop="20230420154000 +0000" channel="SS Motorsport">
+    <title lang="en">Monster Jam</title>
+    <desc lang="en">'S21/E3 of 13'. Watch as Cole Venard, driving Black Pearl, and Bryce Kenny, driving Great Clips Mohawk Warrior, go head-to-head in a thrilling Racing final!(n)</desc>
+  </programme>
+  <programme start="20230420154000 +0000" stop="20230420161000 +0000" channel="SS Motorsport">
+    <title lang="en">Monster Jam</title>
+    <desc lang="en">'S21/E4 of 13'. Watch as two-time Monster Jam World Finals Champion Jim Koehler, driving Avenger, lays out one HUGE save after another in an unforgettable Freestyle performance!4.(n)</desc>
+  </programme>
+  <programme start="20230420161000 +0000" stop="20230420164000 +0000" channel="SS Motorsport">
+    <title lang="en">Monster Jam</title>
+    <desc lang="en">'S21/E5 of 13'. Watch as Cory Rummell, driving Rage, and Todd LeDuc, driving Monster Energy, meet in a heart-stopping Racing final.(n)</desc>
+  </programme>
+  <programme start="20230420164000 +0000" stop="20230420174000 +0000" channel="SS Motorsport">
+    <title lang="en">FIA WEC HL '23: GP of Portimão</title>
+    <desc lang="en">'FIA World Endurance Championship Highlights. FIA World Endurance Championship Highlights - 6 Hours of Portimão'. From Algarve International Circuit - Portimão, Portugal.(n)</desc>
+  </programme>
+  <programme start="20230420174000 +0000" stop="20230420183000 +0000" channel="SS Motorsport">
+    <title lang="en">FIA Formula E Race Preview</title>
+    <desc lang="en">'S23/E7 of 11 - Episode 7: Berlin'. Watch wheel-to-wheel racing on the iconic city streets of world.(n)</desc>
+  </programme>
+  <programme start="20230420183000 +0000" stop="20230420200000 +0000" channel="SS Motorsport">
+    <title lang="en">Le Mans Official Film '22</title>
+    <desc lang="en">99th Edition. One of the toughest races in the world, pitting teams against both each other and the track, with the annual race being the highlight of any endurance fan's year.(n)</desc>
+  </programme>
+  <programme start="20230420200000 +0000" stop="20230420203000 +0000" channel="SS Motorsport">
+    <title lang="en">Pushing the Limits with...</title>
+    <desc lang="en">'Pushing the Limits with Toyota Gazoo Racing. S23/E131 of 52'. We bring you up to speed with the world of motorsport on both two and four wheels.(n)</desc>
+  </programme>
+  <programme start="20230420203000 +0000" stop="20230420213000 +0000" channel="SS Motorsport">
+    <title lang="en">MotoGP '23: Americas Moto2</title>
+    <desc lang="en">'MotoGP - Americas Moto2'. From Circuit of the Americas - Austin, USA.(n)</desc>
+  </programme>
+  <programme start="20230420213000 +0000" stop="20230420223000 +0000" channel="SS Motorsport">
+    <title lang="en">MotoGP '23: Americas MotoGP</title>
+    <desc lang="en">'MotoGP - Americas MotoGP'. From Circuit of the Americas - Austin, USA.(n)</desc>
+  </programme>
+  <programme start="20230420223000 +0000" stop="20230420233000 +0000" channel="SS Motorsport">
+    <title lang="en">MotoGP '23: Americas Moto3</title>
+    <desc lang="en">'MotoGP - Americas Moto3'. From Circuit of the Americas - Austin, USA.(n)</desc>
+  </programme>
+  <programme start="20230420233000 +0000" stop="20230421000000 +0000" channel="SS Motorsport">
+    <title lang="en">Pushing the Limits with...</title>
+    <desc lang="en">'Pushing the Limits with Toyota Gazoo Racing. S23/E131 of 52'. We bring you up to speed with the world of motorsport on both two and four wheels.(n)</desc>
+  </programme>
+</tv>

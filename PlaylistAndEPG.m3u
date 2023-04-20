@@ -1,0 +1,36 @@
+﻿#EXTM3U
+
+#EXTINF:-1 tvg-id="Discovery HD",DISCOVERY
+http://line.ottcst.com:80/MXPO9QBVYP/ZXS1HIIXMG/4817
+#EXTINF:-1 tvg-id="SkySp ActionHD",SKY SPORTS ACTION
+http://line.ottcst.com:80/MXPO9QBVYP/ZXS1HIIXMG/4804
+#EXTINF:-1 tvg-id="SkySpMainEvHD",SKY SPORTS MAIN EVENT
+http://line.ottcst.com:80/MXPO9QBVYP/ZXS1HIIXMG/4801
+#EXTINF:-1 tvg-id="SkySp ArenaHD",SKY SPORTS ARENA
+http://line.ottcst.com:80/MXPO9QBVYP/ZXS1HIIXMG/4798
+#EXTINF:-1 tvg-id="SkySp F1",SKY SPORTS F1
+http://line.ottcst.com:80/MXPO9QBVYP/ZXS1HIIXMG/4796
+#EXTINF:-1 tvg-id="SkySpBoxOffHD",SKY SPORTS BOX OFFICE
+http://line.ottcst.com:80/MXPO9QBVYP/ZXS1HIIXMG/355043
+#EXTINF:-1 tvg-id="BT Sport 1 HD",BT SPORTS 1
+http://line.ottcst.com:80/MXPO9QBVYP/ZXS1HIIXMG/4793
+#EXTINF:-1 tvg-id="BT Sport 2 HD",BT SPORTS 2
+http://line.ottcst.com:80/MXPO9QBVYP/ZXS1HIIXMG/4792
+#EXTINF:-1 tvg-id="BT Sport 3 HD",BT SPORTS 3
+http://line.ottcst.com:80/MXPO9QBVYP/ZXS1HIIXMG/4791
+#EXTINF:-1 tvg-id="",ESPN 1 HD
+http://line.ottcst.com:80/MXPO9QBVYP/ZXS1HIIXMG/319745
+#EXTINF:-1 tvg-id="",ESPN 2 HD
+http://line.ottcst.com:80/MXPO9QBVYP/ZXS1HIIXMG/291916
+#EXTINF:-1 tvg-id="SS Motorsport",SS MOTORSPORT
+http://line.ottcst.com:80/MXPO9QBVYP/ZXS1HIIXMG/2623
+#EXTINF:-1 tvg-id="SS Rugby",SS RUGBY HD
+http://line.ottcst.com:80/MXPO9QBVYP/ZXS1HIIXMG/2626
+#EXTINF:-1 tvg-id="SS Grandstand",SS GRANDSTAND
+http://line.ottcst.com:80/MXPO9QBVYP/ZXS1HIIXMG/448195
+#EXTINF:-1 tvg-id="",Drake and josh
+http://line.ottcst.com:80/MXPO9QBVYP/ZXS1HIIXMG/490170
+#EXTINF:-1 tvg-id="",UFC 24/7
+http://line.ottcst.com:80/MXPO9QBVYP/ZXS1HIIXMG/69
+#EXTINF:-1 tvg-id="",UFC Fight Pass
+http://line.ottcst.com:80/MXPO9QBVYP/ZXS1HIIXMG/291367
