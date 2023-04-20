@@ -1,4 +1,4 @@
-﻿#EXTM3U
+﻿#EXTM3U #EXTM3U x-tvg-url="EPG_url"
 
 #EXTINF:-1 tvg-id="Discovery HD",DISCOVERY
 http://line.ottcst.com:80/MXPO9QBVYP/ZXS1HIIXMG/4817
